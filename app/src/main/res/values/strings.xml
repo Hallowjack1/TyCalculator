@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TyCalculator</string>
+    <string name="calculator">Calculator</string>
+    <string name="description">Input 3 values to solve</string>
+    <string name="value1">Enter 1st Value</string>
+    <string name="value2">Enter 2nd Value</string>
+    <string name="value3">Enter 3rd Value</string>
+    <string name="operator1">X</string>
+    <string name="operator2">÷</string>
+    <string name="compute">Compute</string>
+    <string name="txt_close">Close</string>
+    <string name="Result">Result</string>
+</resources>
