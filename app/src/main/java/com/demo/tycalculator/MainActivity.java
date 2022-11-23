@@ -45,7 +45,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         double result = rawValue1 * rawValue2 / rawValue3;
 
-        strAnswer = " Calculated answer is " + (int)  result;
+        strAnswer = (int) rawValue1 + " x " + (int) rawValue2 + " ÷ " + (int) rawValue3 + " = " + result;
+        //strAnswer = " Calculated answer is " + result;
 
         Bundle args = new Bundle();
         args.putString("result", strAnswer);
